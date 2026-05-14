@@ -1,3 +1,4 @@
-# PET-Saúde Digital GT-01 (PCD)
+# PET Saúde Digital GT - 01: Pessoas com deficiência
+O PET-Saúde Digital é um projeto iniciado em 2025 na Universidade Federal da Paraíba com o objetivo de modernizar o Sistema Único de Saúde (SUS) por meio de soluções digitais. O programa é composto por 12 Grupos Tutoriais (GTs), reunindo professores, profissionais da saúde e estudantes em ações de pesquisa, desenvolvimento e extensão voltadas para problemas reais da população.
 
-
+O GT 01 - Atenção Especializada à Pessoa com Deficiência, cujo foco é promover acessibilidade e inclusão no SUS através de ferramentas digitais que ampliem o acesso à saúde de qualidade para pessoas com deficiência. As atividades são realizadas em parceria com a Secretaria de Estado da Saúde da Paraíba e a Fundação Centro Integrado de Apoio à Pessoa com Deficiência, contando com estudantes, professores e profissionais das áreas da saúde e tecnologia da informação.
